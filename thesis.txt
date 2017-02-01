@@ -1,7 +1,8 @@
 Title: Secrets of Cybsersecurity
 
-Chapter 1: Introduction
+Chapter 1: Introduction (contributed by Mini Me)
 Aho dominates the web who will be the emperor.
+The boss asked me to provide some data here ...
 
 Chapter 2: Model
 Launch the attack and have fun.
