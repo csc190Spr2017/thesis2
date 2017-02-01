@@ -1,4 +1,7 @@
 Title: Secrets of Cybsersecurity
 
 Chapter 1: Introduction
-Who dominates the web who will be the emperor.
+Aho dominates the web who will be the emperor.
+
+Chapter 2: Model
+Launch the attack and have fun.
